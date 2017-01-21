@@ -1,0 +1,31 @@
+{
+  "name": "price-tracker",
+  "version": "1.0.0",
+  "description": "Amazon Price Tracker - Simple Web Scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiffanyip/price-tracker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiffanyip/price-tracker/issues"
+  },
+  "homepage": "https://github.com/tiffanyip/price-tracker#readme",
+  "dependencies": {
+    "angular": "^1.6.1",
+    "body-parser": "^1.16.0",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.14.0",
+    "eslint-config-angular": "^0.5.0",
+    "eslint-plugin-angular": "^1.6.1"
+  }
+}
